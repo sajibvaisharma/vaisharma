@@ -1,1 +1,10 @@
-GP-KKAW-AUER
+{
+  "ABC123-XYZ789": {
+    "active": true,
+    "expiresAt": null
+  },
+  "DEF456-UVW123": {
+    "active": true,
+    "expiresAt": "2027-08-20T00:00:00Z"
+  }
+}
