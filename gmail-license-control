@@ -1,1 +1,10 @@
-ABC-123
+# Kawshik Device ID : 627E-27CE-A696-C4E2-93B5
+{
+  "licenses": [
+    {
+      "device_id": "DEVICE-123456",
+      "license_key": "ABC123-XYZ789",
+      "expires": "2027-01-31"
+    }
+  ]
+}
